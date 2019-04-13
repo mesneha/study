@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "id": 7,
+      "pid": 7,
+      "name": "Black",
+      "description": "smart phone",
+      "price": 75900
+    },
+    {
+      "id": 8,
+      "pid": 9,
+      "name": "Samsung",
+      "description": "smart Phone",
+      "price": 100000
+    },
+    {
+      "id": 10,
+      "pid": 35,
+      "name": "Agh",
+      "description": "hgffffffh",
+      "price": 78978
+    }
+  ]
+}
